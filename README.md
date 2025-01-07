@@ -9,6 +9,11 @@
     - Full-stack Weather Web App (Still working on the project).
     - AI-powered Study App for web and mobile (helping students in Cameroon). But still working on the project.
     - Real-time AI Chat App with advanced features (Still working on the project).
+- 💻 Languages & Tools:
+  - Programming Languages: C++, C, Python, VB.net.
+  - Development Tools: GitHub, Git, Node.js, MongoDB, Figma, SpreadSheet.
+  - Design Tools: Photoshop.
+  - Creative Pursuits: Pianist, artwork lover, and passionate about music and digital art.
 - 💞️ I’m looking to collaborate on innovative projects, particularly in EdTech, AI, and real-time applications that address societal challenges.
 - 📚 Books that inspire me:
   - Rich Dad Poor Dad by Robert Kiyosaki.
