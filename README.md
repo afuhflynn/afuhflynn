@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @AfuhFlynn
+* Afuh Flyine Tembeng*:
+![AfuhFlynn](https://avatars.githubusercontent.com/u/138466374?s=400&u=baba214605be6977dee2cac3343ef9f8e7c095e8&v=4)
+
 - 👀 I’m interested in building innovative tech solutions, full-stack web development, AI-powered applications, and creating software that makes a real-world impact.
 - 🌱 I’m currently learning Java, Go, Deno, React Native, Dotnet, and Flutter, while mastering advanced algorithms and system design concepts.
 - 💼 I’m pursuing a Computer Science and Software Engineering HND certificate at HITBAMAS, expected to graduate by December 2025.
