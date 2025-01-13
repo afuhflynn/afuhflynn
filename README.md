@@ -9,9 +9,13 @@
   - Frontend: HTML, CSS, JavaScript, React, SASS, TailwindCSS, TypeScript.
   - Backend: Node.js, Express.js, MongoDB, and AI-powered solutions.
   - Projects:
-    - Full-stack Weather Web App (Still working on the project).
-    - AI-powered Study App for web and mobile (helping students in Cameroon). But still working on the project.
-    - Real-time AI Chat App with advanced features (Still working on the project).
+  - Full-stack Weather Web App (Still working on the project).
+  - AI-powered Study App for web and mobile (helping students in Cameroon). But still working on the project.
+  - Real-time AI Chat App with advanced features (Still working on the project).
+  - SyntaxSpring (Developer challenge platform for learning and skill-building).
+  - Advanced Portfolio Website (Showcasing skills in React, TailwindCSS, and other modern tools).
+  - GitHub User Finder (A web app to search and display GitHub profiles with details using the GitHub API).
+  - To-Do List App (A task management app built using React and TypeScript with a clean and user-friendly interface).
 - 💻 Languages & Tools:
   - Programming Languages: C++, C, Python, VB.net.
   - Development Tools: GitHub, Git, Node.js, MongoDB, Figma, SpreadSheet.
