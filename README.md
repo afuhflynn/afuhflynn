@@ -77,7 +77,8 @@ I’m eager to collaborate on projects that focus on:
 - 🔗 **LinkedIn:** [Afuh Flynn's Tembeng](https://www.linkedin.com/in/afuh-flynn-s-74289a268)  
 - 🎨 **Frontend Mentor:** [Afuh Flyine Tembeng](https://www.frontendmentor.io/profile/AfuhFlynns)  
 - 💼 **Upwork:** [Afuh Fyine Tembeng](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share)  
-- 👨‍💻 **GitHub:** [Afuh Flyine Tembeng](https://github.com/AfuhFlynns)  
+- 👨‍💻 **GitHub:** [Afuh Flyine Tembeng](https://github.com/AfuhFlynns)
+- 👨‍💻 **GitLab:** [Afuh Flyine Tembeng](https://gitlab.com/AfuhFlynns)  
 
 ---
 
