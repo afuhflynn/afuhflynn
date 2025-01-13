@@ -8,6 +8,7 @@
 I’m a passionate **Computer Science and Software Engineering student** dedicated to:  
 - 🌟 Building **innovative tech solutions** that solve real-world problems.  
 - 🌐 Developing **full-stack web applications** and exploring **AI-powered technologies**.  
+- 🎶 Expressing creativity through music by playing the **piano**, **bass guitar**, and **singing**.  
 - 📚 Currently mastering **Java**, **Go**, **Deno**, **React Native**, **Dotnet**, and **Flutter**, while refining my understanding of **advanced algorithms** and **system design concepts**.  
 
 🎓 Pursuing my **HND in Computer Science and Software Engineering** at **HITBAMAS**, with an expected graduation date of **December 2025**.  
@@ -47,6 +48,15 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 
 ---
 
+## 🎶 Musical Talents  
+- 🎹 **Piano**: Skilled in playing and creating melodies.  
+- 🎸 **Bass Guitar**: Bringing depth to music with rhythmic basslines.  
+- 🎤 **Singing**: A passion for vocal performance and harmony.  
+
+Music is not just a hobby but a way to balance creativity and technical pursuits!  
+
+---
+
 ## 📚 Books That Inspire Me  
 - **Rich Dad Poor Dad** by Robert Kiyosaki  
 - **Limitless** by Jim Kwik  
@@ -64,10 +74,10 @@ I’m eager to collaborate on projects that focus on:
 
 ## 📫 Let’s Connect!  
 - 📧 **Email:** flyinnsafuh@gmail.com  
-- 🔗 **LinkedIn:** [Afuh Flynns](https://www.linkedin.com/in/afuh-flynn-s-74289a268)  
-- 🎨 **Frontend Mentor:** [AfuhFlynns](https://www.frontendmentor.io/profile/AfuhFlynns)  
-- 💼 **Upwork:** [Afuh Flynns](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share)  
-- 👨‍💻 **GitHub:** [AfuhFlynns](https://github.com/AfuhFlynns)  
+- 🔗 **LinkedIn:** [Afuh Flynn's Tembeng](https://www.linkedin.com/in/afuh-flynn-s-74289a268)  
+- 🎨 **Frontend Mentor:** [Afuh Flyine Tembeng](https://www.frontendmentor.io/profile/AfuhFlynns)  
+- 💼 **Upwork:** [Afuh Fyine Tembeng](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share)  
+- 👨‍💻 **GitHub:** [Afuh Flyine Tembeng](https://github.com/AfuhFlynns)  
 
 ---
 
