@@ -76,15 +76,18 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 
 ### 6. **Brilliant.org**  
    - A platform for learning complex concepts in math, science, and computer science through engaging interactive lessons.  
-   - It helps me strengthen my problem-solving and critical thinking skills.  
+   - It helps me strengthen my problem-solving and critical thinking skills.
+   - Try it out: [Brilliant.org](https://brilliant.org)  
 
 ### 7. **LeetCode**  
    - The go-to platform for mastering data structures and algorithms through competitive coding problems.  
-   - I use it to sharpen my problem-solving skills and prepare for technical interviews.  
+   - I use it to sharpen my problem-solving skills and prepare for technical interviews.
+   - Try it out: [LeetCode](https://leetcode.com/u/AfuhFlyine/)  
 
 ### 8. **Codedamn**  
    - A hands-on learning platform for mastering web development and practicing coding projects.  
-   - I use it to enhance my practical knowledge of full-stack development and build interactive projects.  
+   - I use it to enhance my practical knowledge of full-stack development and build interactive projects.
+   - Try it out: [Codedamn.com](https://codedamn.com)  
 
 ---
 
