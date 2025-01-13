@@ -11,7 +11,7 @@ I’m a passionate **Computer Science and Software Engineering student** dedicat
 - 🎶 Expressing creativity through music by playing the **piano**, **bass guitar**, and **singing**.  
 - 📚 Currently mastering **Java**, **Go**, **Deno**, **React Native**, **Dotnet**, and **Flutter**, while refining my understanding of **advanced algorithms** and **system design concepts**.  
 
-🎓 Pursuing my **HND in Computer Science and Software Engineering** at **HITBAMAS**, with an expected graduation date of **December 2025**.  
+🎓 Pursuing my **HND in Computer Science and Software Engineering** at **HITBAMAS**, with an expected graduation date of **December 2026**.  
 
 ---
 
@@ -30,7 +30,7 @@ I’m a passionate **Computer Science and Software Engineering student** dedicat
 - **Database:** MongoDB.  
 
 ### 🛠️ Tools  
-- **Version Control:** Git, GitHub.  
+- **Version Control:** Git, GitHub, GitLab.  
 - **Design & Prototyping:** Figma, Photoshop.  
 - **Others:** SpreadSheet, Command-line tools.  
 
