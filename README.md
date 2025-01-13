@@ -56,4 +56,5 @@ He/Him
 I attended the TIC Summit and Boot Camp 2024, where I gained invaluable insights into technology trends and entrepreneurship.  
 
 ## 🌟 Philosophy  
-*"Driven by passion and curiosity, I believe in transforming ideas into reality through code."*  
+*"Driven by passion and curiosity, I believe in transforming ideas into reality through code."*
+*"Imagination is the DNA of all invention"*
