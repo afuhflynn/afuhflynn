@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AfuhFlynn  
+# 👋 Hi, I’m @AfuhFlynns  
 ### *Afuh Flyine Tembeng*  
 ![AfuhFlynn](https://avatars.githubusercontent.com/u/138466374?s=400&u=baba214605be6977dee2cac3343ef9f8e7c095e8&v=4)  
 
