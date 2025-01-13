@@ -41,8 +41,8 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 1. 🌦️ **Full-stack Weather Web App** *(In progress)*  
 2. 📚 **AI-powered Study App** *(Helping students in Cameroon; in progress)*  
 3. 🤖 **Real-time AI Chat App** *(In progress)*  
-4. 🛠️ **SyntaxSpring:** Developer challenge platform for learning and skill-building.  
-5. 🌟 **Advanced Portfolio Website:** Showcasing skills in React, TailwindCSS, and modern tools.  
+4. 🛠️ **SyntaxSpring:** Developer challenge platform for learning and skill-building *(In progress)*.  
+5. 🌟 **Advanced Portfolio Website:** Showcasing skills in React, TailwindCSS, and modern tools *(In progress)*.  
 6. 🔍 **GitHub User Finder:** A web app for searching and displaying GitHub profiles using the GitHub API.  
 7. ✅ **To-Do List App:** A task management app built with React and TypeScript.  
 
