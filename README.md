@@ -51,6 +51,43 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 
 ---
 
+## 🌐 Platforms I Use  
+
+### 1. **GitHub**  
+   - A version control platform where I host my open-source projects, collaborate with other developers, and showcase my portfolio.  
+   - 📂 Check out my repositories: [GitHub Profile](https://github.com/AfuhFlynns).  
+
+### 2. **GitLab**  
+   - Similar to GitHub but with a stronger focus on DevOps and CI/CD pipelines.  
+   - I use it for private repositories and advanced project management workflows.  
+   - 🔗 Visit my GitLab profile: [GitLab Profile](https://gitlab.com/AfuhFlynns).  
+
+### 3. **LinkedIn**  
+   - A professional networking platform where I connect with industry leaders, share achievements, and discover opportunities in tech.  
+   - 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/afuh-flynn-s-74289a268).  
+
+### 4. **Frontend Mentor**  
+   - A platform for practicing frontend development by solving real-world challenges and improving coding skills.  
+   - 🏆 Explore my challenges: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/AfuhFlynns).  
+
+### 5. **Upwork**  
+   - A freelancing platform where I provide tech solutions and work on software development projects for clients globally.  
+   - 💼 Hire me: [Upwork Profile](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share).  
+
+### 6. **Brilliant.org**  
+   - A platform for learning complex concepts in math, science, and computer science through engaging interactive lessons.  
+   - It helps me strengthen my problem-solving and critical thinking skills.  
+
+### 7. **LeetCode**  
+   - The go-to platform for mastering data structures and algorithms through competitive coding problems.  
+   - I use it to sharpen my problem-solving skills and prepare for technical interviews.  
+
+### 8. **Codedamn**  
+   - A hands-on learning platform for mastering web development and practicing coding projects.  
+   - I use it to enhance my practical knowledge of full-stack development and build interactive projects.  
+
+---
+
 ## 🎶 Musical Talents  
 - 🎹 **Piano**: Skilled in playing and creating melodies.  
 - 🎸 **Bass Guitar**: Bringing depth to music with rhythmic basslines.  
