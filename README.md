@@ -21,7 +21,7 @@ I’m a passionate **Computer Science and Software Engineering student** dedicat
 - **Markup & Styling:** HTML, CSS, SASS, TailwindCSS.  
 
 ### 📚 Libraries  
-- **JavaScript:** jQuery, Lodash, Axios, Chart.js, Framer-Motion.  
+- **JavaScript:** jQuery, Axios, Chart.js, Framer-Motion.  
 - **HTML:** FontAwesome.  
 
 ### 🏗️ Frameworks & Platforms  
@@ -45,6 +45,9 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 5. 🌟 **Advanced Portfolio Website:** Showcasing skills in React, TailwindCSS, and modern tools *(In progress)*.  
 6. 🔍 **GitHub User Finder:** A web app for searching and displaying GitHub profiles using the GitHub API.  
 7. ✅ **To-Do List App:** A task management app built with React and TypeScript.  
+8. 💰 **Full-Stack Personal Finance Tracker App with AI Integration:** Helps users manage expenses, create budgets, and receive personalized financial tips. *(In progress)*  
+9. 📝 **Full-Stack Notes Taking App with AI Integration:** Offers typing suggestions, advanced functionalities, and seamless organization. *(In progress)*  
+10. 🔔 **Remind Me App:** Allows users to add tasks, categorizes them, and sends reminders via email on the due date. *(In progress)*  
 
 ---
 
@@ -76,8 +79,8 @@ I’m eager to collaborate on projects that focus on:
 - 📧 **Email:** flyinnsafuh@gmail.com  
 - 🔗 **LinkedIn:** [Afuh Flynn's Tembeng](https://www.linkedin.com/in/afuh-flynn-s-74289a268)  
 - 🎨 **Frontend Mentor:** [Afuh Flyine Tembeng](https://www.frontendmentor.io/profile/AfuhFlynns)  
-- 💼 **Upwork:** [Afuh Fyine Tembeng](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share)  
-- 👨‍💻 **GitHub:** [Afuh Flyine Tembeng](https://github.com/AfuhFlynns)
+- 💼 **Upwork:** [Afuh Flyine Tembeng](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share)  
+- 👨‍💻 **GitHub:** [Afuh Flyine Tembeng](https://github.com/AfuhFlynns)  
 - 👨‍💻 **GitLab:** [Afuh Flyine Tembeng](https://gitlab.com/AfuhFlynns)  
 
 ---
