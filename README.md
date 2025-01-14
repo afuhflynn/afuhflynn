@@ -48,6 +48,8 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 8. 💰 **Full-Stack Personal Finance Tracker App with AI Integration:** Helps users manage expenses, create budgets, and receive personalized financial tips. *(In progress)*  
 9. 📝 **Full-Stack Notes Taking App with AI Integration:** Offers typing suggestions, advanced functionalities, and seamless organization. *(In progress)*  
 10. 🔔 **Remind Me App:** Allows users to add tasks, categorizes them, and sends reminders via email on the due date. *(In progress)*  
+11. 📖 **Dictionary App:** A frontend-only app providing users with an intuitive way to look up and understand words. *(In progress)*  
+12. ✨ **Quotes App:** A frontend-only app showcasing a wide collection of inspirational quotes with a user-friendly interface. *(In progress)*  
 
 ---
 
