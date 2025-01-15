@@ -9,7 +9,7 @@ I’m a passionate **Computer Science and Software Engineering student** dedicat
 - 🌟 Building **innovative tech solutions** that solve real-world problems.  
 - 🌐 Developing **full-stack web applications** and exploring **AI-powered technologies**.  
 - 🎶 Expressing creativity through music by playing the **piano**, **bass guitar**, and **singing**.  
-- 📚 Currently mastering **Python**, **C**, **C++*, **VB.Net**, **Java**, **Go**, **Deno**, **React Native**, **Dotnet**, and **Flutter**, while refining my understanding of **advanced algorithms** and **system design concepts**.  
+- 📚 Currently mastering **Python**, **C**, **C++**, **VB.Net**, **Node.js**, **Java**, **Go**, **Deno**, **React Native**, **Dotnet**, and **Flutter**, while refining my understanding of **advanced algorithms** and **system design concepts**.  
 
 🎓 Pursuing my **HND in Computer Science and Software Engineering** at **HITBAMAS**, with an expected graduation date of **December 2026**.  
 
