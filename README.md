@@ -134,7 +134,7 @@ He/Him
 
 ## ⚡ Fun Fact  
 I had the privilege of attending the **TIC Summit and Boot Camp 2023**, gaining invaluable insights into technology trends and entrepreneurship.
-- For more info visit: **[Tic Foundation](https://tic-pi.vercel.app/)** or [Tic Summit](https://tic-council.idloom.events/tic-summit-2024)
+- For more info visit: **[Tic Foundation Facebook]([https://tic-pi.vercel.app/](https://www.facebook.com/TiCFoundation237/?utm_source=chatgpt.com))** or [Tic Summit](https://ticsummit.org/)
 
 ---
 
