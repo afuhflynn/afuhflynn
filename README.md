@@ -50,6 +50,7 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 10. 🔔 **Remind Me App:** Allows users to add tasks, categorizes them, and sends reminders via email on the due date. *(In progress)*  
 11. 📖 **Dictionary App:** A frontend-only app providing users with an intuitive way to look up and understand words. *(In progress)*  
 12. ✨ **Quotes App:** A frontend-only app showcasing a wide collection of inspirational quotes with a user-friendly interface. *(In progress)*  
+13. 🌐 **InfinityDot:** A platform dedicated to providing **real-time tech learning resources** and **coding challenges** to enhance learning for developers globally. *(In progress)*  
 
 ---
 
