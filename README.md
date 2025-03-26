@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @AfuhFlynns  
-### *Afuh Flyine Tembeng*  
+# 👋 Hi, I’m @afuhflynn 
+### *Afuh Flynn Tembeng*  
 <img src="https://avatars.githubusercontent.com/u/138466374?s=400&u=baba214605be6977dee2cac3343ef9f8e7c095e8&v=4" alt="Profile photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
 
 ---
@@ -58,12 +58,12 @@ Here are some of the exciting projects I’ve worked on or am currently developi
 
 ### 1. **GitHub**  
    - A version control platform where I host my open-source projects, collaborate with other developers, and showcase my portfolio.  
-   - 📂 Check out my repositories: [GitHub Profile](https://github.com/AfuhFlynns).  
+   - 📂 Check out my repositories: [GitHub Profile](https://github.com/afuhflynn).  
 
 ### 2. **GitLab**  
    - Similar to GitHub but with a stronger focus on DevOps and CI/CD pipelines.  
    - I use it for private repositories and advanced project management workflows.  
-   - 🔗 Visit my GitLab profile: [GitLab Profile](https://gitlab.com/AfuhFlynns).  
+   - 🔗 Visit my GitLab profile: [GitLab Profile](https://gitlab.com/afuhflynn).  
 
 ### 3. **LinkedIn**  
    - A professional networking platform where I connect with industry leaders, share achievements, and discover opportunities in tech.  
