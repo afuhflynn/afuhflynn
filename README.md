@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @afuhflynn 
----
-![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=afuhflynn&show_icons=true&theme=transparent)
 
+![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=afuhflynn&show_icons=true&theme=transparent) ### *Afuh Flynn Tembeng*  
+<img src="https://avatars.githubusercontent.com/u/138466374?s=400&u=baba214605be6977dee2cac3343ef9f8e7c095e8&v=4" alt="Profile photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
 ---
 
 ## 👀 About Me  
