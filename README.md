@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @afuhflynn 
 
 ### *Afuh Flynn Tembeng*  
-<img src="https://avatars.githubusercontent.com/u/138466374?s=400&u=baba214605be6977dee2cac3343ef9f8e7c095e8&v=4" alt="Profile photo" style="border-radius: 50%; width: 150px; height: 150px;"/>
+<a href="https://app.daily.dev/afuhflynn"><img src="https://api.daily.dev/devcards/v2/20Iz8yIV9ujJOJr2gUuTl.png?type=wide&r=nn3" width="652" alt="Tembeng Flynn Afuh's Dev Card"/></a>
 
 ![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=afuhflynn&show_icons=true&theme=transparent) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afuhflynn&layout=donut&theme=transparent)
