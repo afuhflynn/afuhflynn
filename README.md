@@ -3,8 +3,6 @@
 ### *Afuh Flynn Tembeng*  
 <a href="https://app.daily.dev/afuhflynn"><img src="https://api.daily.dev/devcards/v2/20Iz8yIV9ujJOJr2gUuTl.png?type=wide&r=zt4" width="652" alt="Tembeng Flynn Afuh's Dev Card"/></a>
 
-![Flynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=afuhflynn&show_icons=true&theme=transparent) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afuhflynn&layout=donut&theme=transparent)
 ---
 
 ## 👀 About Me  
