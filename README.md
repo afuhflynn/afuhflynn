@@ -1,120 +1,98 @@
-# GitHub Profile README Template 🎉
+# Hi there, I'm Afuh Flynn Tembeng! 👋
 
-## How to use:
+![Banner](https://github-readme-stats.vercel.app/api?username=afuhflynn\&show_icons=true\&theme=transparent)
 
-Copy the markdown below and update the placeholders with your personal information. Feel free to add more sections and use additional resources to reflect your style, taste and expertise. ✨
+## 🚀 About Me
 
-<details><summary>Toggle to see the what the completed profile looks like</summary>
-<p>
+I'm a passionate **Full-Stack Developer** and **Computer Science student** at HITBAMAS, driven by real-world impact, clean code, and lifelong learning.
 
-# Hi there, I'm [Your Name]! 👋
+* 🎓 Pursuing HND in Computer Science & Software Engineering (Grad: Dec 2026)
+* 🌱 Currently learning: Go, Java, Deno, React Native, Flutter, advanced system design
+* 🔭 Building: AI Study App • SyntaxSpring • InfinityDot (VS Code Ext) • Real-time Chat App
+* 🌍 Languages I code in: C, C++, Python, VB.Net, JavaScript, TypeScript, Go, Java
+* ⚡ Fun fact: I mix building software with playing piano, bass guitar, and singing 🎶
 
-![Banner Image](your_banner_image_url_here)
+---
 
-## About Me 🚀
+## 🧠 My Skills
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+---
 
-## My Skills 🧠
+## 💻 Featured Projects
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### [SyntaxSpring](https://syntax-spring.vercel.app)
 
-*Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+A full-stack developer challenge platform to learn, compete, and grow. Built with **Next.js**, **MongoDB**, and **TailwindCSS**.
 
-## Featured Projects 💻
+### [AI Study App (WIP)](https://github.com/afuhflynn)
 
-### [Project 1 Title](project_1_link)
+EdTech tool helping Cameroonian students study smarter with **AI-powered suggestions** and quiz generation.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### [InfinityDot (WIP)](https://github.com/afuhflynn)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+VS Code extension to supercharge .NET dev with C#, VB.NET, F#, Blazor support.
 
-### [Project 2 Title](project_2_link)
+### [Personal Finance Tracker (WIP)](https://github.com/afuhflynn)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+Full-stack finance tracker with **AI budget analysis** & smart notifications.
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### [GitHub User Finder](https://github.com/afuhflynn/github-user-finder)
 
-## Get in Touch 📬
+A GitHub API-based web app to search and explore user profiles with clean UI and Axios.
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+> 🔍 More projects on my [GitHub Repositories](https://github.com/afuhflynn?tab=repositories)
 
+---
 
-</p>
-</details> 
+## 🌐 Platforms I Use & Learn On
 
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
-## 👉🏽 Click the copy icon in the upper right hand corner below to copy the template:
+* 🧠 [LeetCode](https://leetcode.com/u/AfuhFlyine/): Competitive DSA
+* 📘 [Brilliant.org](https://brilliant.org): Advanced problem solving
+* 🌐 [Frontend Mentor](https://www.frontendmentor.io/profile/AfuhFlynns): UI challenge practice
+* 💻 [Codedamn](https://codedamn.com): Project-based dev learning
+* 💼 [Upwork](https://www.upwork.com/freelancers/~01d602cb081a55ce51?mp_source=share): Freelance software gigs
 
+---
 
-```
-# Hi there, I'm [Your Name]! 👋
+## 📫 Let's Connect
 
-![Banner Image](your_banner_image_url_here)
+* 📧 **Email**: [flyinnsafuh@gmail.com](mailto:flyinnsafuh@gmail.com)
+* 🔗 **LinkedIn**: [Afuh Flynn Tembeng](https://www.linkedin.com/in/afuh-flynn-s-74289a268)
+* 💼 **GitHub**: [@afuhflynn](https://github.com/afuhflynn)
+* 📂 **GitLab**: [AfuhFlyine](https://gitlab.com/afuhflynn)
 
-## About Me 🚀
+---
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 📖 Books That Inspire Me
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+* **Rich Dad Poor Dad** – Robert Kiyosaki
+* **Limitless** – Jim Kwik
 
-## My Skills 🧠
+---
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## 👏 Open to Collaborations
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+I’m especially excited about:
 
-## Featured Projects 💻
+* 🎓 **EdTech Tools**
+* 🤖 **AI/ML Applications**
+* 🌍 **Social Impact Projects**
+* ⚡ **Real-time Platforms**
 
-### [Project 1 Title](project_1_link)
+---
 
-![Project 1 Screenshot](project_1_screenshot_url)
+## ✨ Fun Fact
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+I attended the **TIC Summit & Boot Camp 2023**, where I gained insight on tech leadership, entrepreneurship, and community impact.
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-
-```
-
-## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
-
+> “Driven by faith and curiosity, I build to make a difference.”
