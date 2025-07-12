@@ -1,4 +1,4 @@
-# Hi there, I'm Afuh Flynn Tembeng! 👋
+# Hi there, I'm Flynn! 👋
 
 ![Banner](https://github-readme-stats.vercel.app/api?username=afuhflynn\&show_icons=true\&theme=transparent)
 
