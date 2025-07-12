@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** at HI
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square\&logo=python\&logoColor=yellow)
 
 ---
 
