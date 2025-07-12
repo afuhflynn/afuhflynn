@@ -25,32 +25,7 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** at HI
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-
----
-
-## 💻 Featured Projects
-
-### [SyntaxSpring](https://syntax-spring.vercel.app)
-
-A full-stack developer challenge platform to learn, compete, and grow. Built with **Next.js**, **MongoDB**, and **TailwindCSS**.
-
-### [AI Study App (WIP)](https://github.com/afuhflynn)
-
-EdTech tool helping Cameroonian students study smarter with **AI-powered suggestions** and quiz generation.
-
-### [InfinityDot (WIP)](https://github.com/afuhflynn)
-
-VS Code extension to supercharge .NET dev with C#, VB.NET, F#, Blazor support.
-
-### [Personal Finance Tracker (WIP)](https://github.com/afuhflynn)
-
-Full-stack finance tracker with **AI budget analysis** & smart notifications.
-
-### [GitHub User Finder](https://github.com/afuhflynn/github-user-finder)
-
-A GitHub API-based web app to search and explore user profiles with clean UI and Axios.
-
-> 🔍 More projects on my [GitHub Repositories](https://github.com/afuhflynn?tab=repositories)
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square\&logo=python\&logoColor=white)
 
 ---
 
