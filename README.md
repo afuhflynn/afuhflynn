@@ -2,6 +2,8 @@
 
 ### Full-Stack Developer | Computer Science Student @ HITBAMAS
 
+[![Flynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afuhflynn&show_icons=true&theme=transparent)](https://github.com/afuhflynn)
+
 ---
 
 ## 🚀 About Me
