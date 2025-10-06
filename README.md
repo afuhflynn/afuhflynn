@@ -33,7 +33,7 @@ I'm a passionate Full-Stack Developer and Computer Science student driven by cle
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: [flyinnsafuh@gmail.com](mailto:flyinnsafuh@gmail.com)
+- 📧 **Discord**: [afuhflynn](https://discord.com/channels/@afuhflynn)
 - 🔗 **LinkedIn**: [Afuh Flynn Tembeng](https://www.linkedin.com/in/afuh-flynn-s-74289a268)
 - 💼 **GitHub**: [@afuhflynn](https://github.com/afuhflynn)
 
