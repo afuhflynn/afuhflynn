@@ -43,6 +43,3 @@ I'm a passionate Full-Stack Developer and Computer Science student driven by cle
 
 I'm particularly interested in projects involving EdTech, AI/ML, social impact, and real-time platforms.
 
----
-
-> “Driven by faith and curiosity, I build to make a difference.”
