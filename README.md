@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Flynn
 
----
-
 ### Lets Connect
 
 - [LinkedIn](https://www.linkedin.com/in/afuh-flynn-s-74289a268) 
