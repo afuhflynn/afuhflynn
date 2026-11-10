@@ -47,4 +47,4 @@ Recognized by TiC Foundation for teaching clarity and impact on participant lear
 
 I'm interested in AI product engineering, agentic software development, developer infrastructure, and technology that helps people and organizations do better work.
 
-**Contact:** [flyinnsafuh@gmail.com](mailto:flyinnsafuh@gmail.com) · [afuhflynn.me](https://afuhflynn.me)
+**Contact:** [afuhflynn.me](https://afuhflynn.me)
