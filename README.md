@@ -15,28 +15,15 @@ A collection of reusable engineering workflows for AI coding agents, covering co
 
 Install: `npx skills@latest add afuhflynn/agent-skills`
 
-### [Compylar](https://github.com/afuhflynn/compylar)
-A local CLI that builds durable, evidence-backed repository knowledge for AI coding agents. It helps agents retrieve relevant codebase context without repeatedly rediscovering the same project structure.
-
-[ npm package](https://www.npmjs.com/package/compylar)
-
 ### [CodeReverb](https://code-reverb.dev)
 An open-source AI code review platform that connects to GitHub, reviews pull requests, and supports configurable reviewer personas. Available as a self-hosted project and a hosted service.
 
 [Source code](https://github.com/afuhflynn/code-reverb)
 
-### [TiCLearn](https://ticlearn.ticsummit.org)
-An AI-supported learning platform being developed for Cameroonian university and HND students. I took it from concept to production; it reached **100+ active users during the 2026 exam period**.
-
 ### [Nvii](https://nvii.dev)
 An end-to-end encrypted environment variable manager with a web dashboard and CLI. During my software engineering internship at Skaleway, I owned authentication improvements and built most of the CLI functionality that shipped with the product.
 
 [Source code](https://github.com/skaleway/nvii)
-
-### Genesyz
-An AI-powered operating system for early-stage founders, bringing goals, metrics, tasks, team collaboration, weekly check-ins, and AI guidance into one founder workflow.
-
-[Product](https://genesyz.vercel.app)
 
 ## Experience
 
