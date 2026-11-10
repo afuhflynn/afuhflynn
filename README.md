@@ -4,7 +4,7 @@
 
 I work across full-stack product engineering and AI systems, from TypeScript applications and backend infrastructure to tools that help AI coding agents understand and work with real codebases. I focus on practical software, clear engineering decisions, and products that solve real problems.
 
-Yaoundé, Cameroon · [Portfolio](https://afuhflynn.me) · [LinkedIn](https://linkedin.com/in/afuhflynn) · [Email](mailto:flyinnsafuh@gmail.com)
+Yaoundé, Cameroon · [Portfolio](https://afuhflynn.me) · [LinkedIn](https://linkedin.com/in/afuhflynn)
 
 **Open to:** Software engineering roles · Paid product and implementation work · Technical collaborations
 
